@@ -29,15 +29,17 @@ _Aquí se pueden incluir imágenes que muestren la aplicación en funcionamiento
 ## **Cómo usar el proyecto**
 1. Clonar este repositorio:
    ```sh
-   git clone https://github.com/tu_usuario/amigo-secreto.git```
+   git clone https://github.com/tu_usuario/amigo-secreto.git
 ## **Cómo usar el proyecto**
 1. **Clonar este repositorio**:
    ```sh
    git clone https://github.com/tu_usuario/amigo-secreto.git
 2. **Abrir el archivo index.html en un navegador web.**
+    ```sh
 3. **Ingresar nombres y realizar el sorteo.**
+    ```sh
 ## Contribuciones
-## Si deseas mejorar este proyecto, ¡eres bienvenido! Puedes hacer un fork del repositorio y enviar un pull request con tus mejoras.
+Si deseas mejorar este proyecto, ¡eres bienvenido! Puedes hacer un fork del repositorio y enviar un pull request con tus mejoras.
 
 ## Licencia
-## Este proyecto está bajo la licencia MIT. ¡Úsalo libremente! 🚀
+ Este proyecto está bajo la licencia MIT. ¡Úsalo libremente! 🚀
